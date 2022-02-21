@@ -1,0 +1,6 @@
+public class TEST {
+    public static void main(String[] args) {
+        int a = Math.random();
+        System.out.println(a);
+    }
+}
