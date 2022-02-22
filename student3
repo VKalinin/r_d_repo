@@ -1,0 +1,28 @@
+student:
+  name: Vladyslav
+  lastname: Kalinin
+  age: 27
+  gender: M
+  married: True
+  children: False
+  height: 1.83
+  story: >
+    Vlad was born
+    on the 1st
+    of December
+  friends: [Garrosh, Lok'tar, Ogar]
+  bio: |
+    I
+    like
+    my
+    friends
+  enemies:
+    - "Velen"
+    - "Malfurion"
+  address:
+    mailing:
+      country: UA
+      city: Kharkov
+    acrual:
+      country: UA
+      city: Kiev

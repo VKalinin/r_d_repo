@@ -1,0 +1,14 @@
+{
+  "firstname": "Vladyslav",
+  "lastname": "Kalinin",
+  "age": 27,
+  "married": true,
+  "taxid": null,
+  "friends": ["Garrosh", "Hellscream", 50, false, null],
+  "address": {
+    "country":"UA",
+    "city": "Kharkov",
+    "zip": "61000",
+    "postal": true
+  }
+}
